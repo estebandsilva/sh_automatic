@@ -1,8 +1,6 @@
 #!/bin/bash
 cd ~/Desktop
 
-sudo su
-
 directorio_buscado="GUI"
 ruta_especificada="/home/mequonic/Desktop"
 
