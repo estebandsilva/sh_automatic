@@ -1,6 +1,7 @@
 #!/bin/bash
-sudo su
 cd ~/Desktop
+
+sudo su
 
 directorio_buscado="GUI"
 ruta_especificada="/home/mequonic/Desktop"
