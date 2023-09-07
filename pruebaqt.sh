@@ -1,4 +1,6 @@
 #!/bin/bash
+sudo su
+
 directorio_buscado="PyQT"
 ruta_especificada="/home/mequonic/Desktop"
 
