@@ -8,7 +8,8 @@ if [ -d "$ruta_directorio" ]; then
     echo "Se encontró el directorio '$directorio_buscado' en la ruta '$ruta_especificada'."
     # Haz algo si el directorio existe
     # ... añade aquí la rutina que deseas ejecutar
-    cd /home/mequonic/Desktop/Piscinas
+    cd $ruta_directorio
+    #cd /home/mequonic/Desktop/Piscinas
     git pull
     git checkout main
     python main_graf.py
