@@ -11,7 +11,7 @@ if [ -d "$ruta_directorio" ]; then
     cd /home/mequonic/Desktop/Piscinas
     git pull
     git checkout main
-    python main.py
+    python main_graf.py
     read
 
 
