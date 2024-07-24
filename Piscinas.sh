@@ -19,6 +19,6 @@ else
     echo "No se encontró el directorio '$directorio_buscado' en la ruta '$ruta_especificada'."
     # Haz algo si el directorio no existe
     # ... añade aquí la otra rutina que deseas ejecutar
-    git clone https://github.com/estebandsilva/Assabloy_Code
+    git clone https://github.com/estebandsilva/Piscinas
 
 fi
