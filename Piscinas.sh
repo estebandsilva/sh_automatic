@@ -1,6 +1,6 @@
 #!/bin/bash
 directorio_buscado="Piscinas"
-ruta_especificada="/home/Mequonic/Desktop"
+ruta_especificada="/home/mequonic/Desktop"
 
 ruta_directorio="$ruta_especificada/$directorio_buscado"
 
