@@ -12,7 +12,7 @@ if [ -d "$ruta_directorio" ]; then
     #cd /home/mequonic/Desktop/Piscinas
     git pull
     git checkout main
-    python main_graf.py
+    python Prueba_piscinas.py
     read
 
 
