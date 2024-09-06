@@ -1,3 +1,5 @@
+
+##It's both one for the GUI and the other for the motors
 #!/bin/bash
 
 directorio_buscado="Assabloy_Code"
